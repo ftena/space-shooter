@@ -1,2 +1,2 @@
 # space-shooter
-Unity project - Space Shooter
+Unity Project - Space Shooter
